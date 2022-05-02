@@ -12,6 +12,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'fyhNB' => '1374872604@qq.com' }
   s.source           = { :git => 'https://github.com/fyhNB/PGFoundation.git', :tag => s.version.to_s }
 
+  s.swift_version = '5.0'
   s.ios.deployment_target = '13.0'
 
   s.source_files = 'PGFoundation/Classes/**/*'
