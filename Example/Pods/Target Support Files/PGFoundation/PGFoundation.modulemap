@@ -1,0 +1,6 @@
+framework module PGFoundation {
+  umbrella header "PGFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

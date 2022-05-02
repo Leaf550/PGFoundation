@@ -1,0 +1,27 @@
+{
+  "name": "PGFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of PGFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fyhNB/PGFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fyhNB": "1374872604@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fyhNB/PGFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PGFoundation/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "6.2.0"
+    ]
+  }
+}

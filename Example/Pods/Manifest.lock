@@ -1,0 +1,24 @@
+PODS:
+  - PGFoundation (0.1.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - PGFoundation (from `../`)
+  - RxSwift (= 6.2.0)
+
+SPEC REPOS:
+  trunk:
+    - RxSwift
+
+EXTERNAL SOURCES:
+  PGFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PGFoundation: 755c7bdf78b1dc7116981b19479f1bb324267892
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: 22f6019292c8b36b6195516220473420e9347c73
+
+COCOAPODS: 1.10.1
