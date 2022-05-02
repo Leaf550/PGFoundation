@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PGFoundation_Example' do
+  pod 'PGFoundation', :path => '../'
+
+  target 'PGFoundation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
